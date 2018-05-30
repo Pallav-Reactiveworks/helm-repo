@@ -6,7 +6,7 @@ entries:
     created: 2018-05-30T10:05:31.44071058Z
     description: A Helm chart for Kubernetes
     digest: 49365edcff2bfe90b91fd4c7beffd3c334d7f284826373810dbb4942c517ade7
-    name: mychart
+    name: mychart1
     urls:
     - https://pallav-reactiveworks.github.io/helm-repo/mychart-0.1.0.tgz
     version: 0.1.0
