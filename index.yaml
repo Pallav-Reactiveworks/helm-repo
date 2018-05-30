@@ -3,11 +3,11 @@ entries:
   mychart:
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2018-05-30T09:35:24.829216089Z
+    created: 2018-05-30T09:54:49.194304198Z
     description: A Helm chart for Kubernetes
-    digest: be1deef61b79f8f359fa0285f47fe6e5cb828d6740774efa8a2b0a71be735731
+    digest: 49365edcff2bfe90b91fd4c7beffd3c334d7f284826373810dbb4942c517ade7
     name: mychart
     urls:
     - https://pallav-reactiveworks.github.io/helm-repo/mychart-0.1.0.tgz
     version: 0.1.0
-generated: 2018-05-30T09:35:24.828889159Z
+generated: 2018-05-30T09:54:49.193760885Z
