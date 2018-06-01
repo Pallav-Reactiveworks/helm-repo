@@ -3,7 +3,7 @@ entries:
   mychart:
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2018-06-01T07:45:01.764293869Z
+    created: 2018-06-01T11:44:59.521906853Z
     description: A Helm chart for Kubernetes
     digest: 49365edcff2bfe90b91fd4c7beffd3c334d7f284826373810dbb4942c517ade7
     name: mychart
@@ -13,9 +13,9 @@ entries:
   nginx:
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2018-06-01T07:45:01.764745058Z
+    created: 2018-06-01T11:44:59.522504852Z
     description: A Helm chart for Kubernetes
-    digest: 475b6e3b814c644d6bc11fbeae7c70b1995aa989bb717015c0f2e0309ad9c684
+    digest: c99f5698a0d601454de09f8775515e2d88d809052a0ed0f7174478ceb31ba796
     name: nginx
     urls:
     - https://pallav-reactiveworks.github.io/helm-repo/nginx-0.1.0.tgz
@@ -23,11 +23,11 @@ entries:
   samplechart:
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2018-06-01T07:45:01.765219212Z
+    created: 2018-06-01T11:44:59.52280707Z
     description: A Helm chart for Kubernetes
     digest: 87ddb087f2b0fbe5bbf3d589574180b52313529357a06e8b14910e4329ef0573
     name: samplechart
     urls:
     - https://pallav-reactiveworks.github.io/helm-repo/samplechart-0.1.0.tgz
     version: 0.1.0
-generated: 2018-06-01T07:45:01.763672267Z
+generated: 2018-06-01T11:44:59.521547934Z
