@@ -3,7 +3,7 @@ entries:
   mychart:
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2018-06-08T13:44:17.997912769Z
+    created: 2018-06-11T13:42:39.260733172Z
     description: A Helm chart for Kubernetes
     digest: 49365edcff2bfe90b91fd4c7beffd3c334d7f284826373810dbb4942c517ade7
     name: mychart
@@ -12,7 +12,7 @@ entries:
     version: 0.1.0
   mysql:
   - apiVersion: v1
-    created: 2018-06-08T13:44:17.99843092Z
+    created: 2018-06-11T13:42:39.261126556Z
     description: |
       A Kubernetes Helm chart for MySQL Database. It is almost an exact copy of version 0.2.5 of the stable/mysql chart, but with a different Docker image
     digest: a00a1ded31981f8c8bbab4f7097cbce94787b5f793497b50de23bfffbd96abb8
@@ -31,7 +31,7 @@ entries:
     version: 0.1.0
   mysql-cluster:
   - appVersion: 5.7.13
-    created: 2018-06-08T13:44:17.998961308Z
+    created: 2018-06-11T13:42:39.261647118Z
     description: MySQL cluster with a single master and zero or more slave replicas
     digest: 18c123ef92d9966f0c1ded02f4b66358fcac8f3abca6f17c228c97505e31032e
     keywords:
@@ -48,9 +48,9 @@ entries:
   nginx:
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2018-06-08T13:44:17.999230625Z
+    created: 2018-06-11T13:42:39.261842341Z
     description: A Helm chart for Kubernetes
-    digest: c99f5698a0d601454de09f8775515e2d88d809052a0ed0f7174478ceb31ba796
+    digest: 209c9b107bf6332fa5d06b519d32cf7252d077e48c37ced3acc796abe97b2ae8
     name: nginx
     urls:
     - https://pallav-reactiveworks.github.io/helm-repo/nginx-0.1.0.tgz
@@ -58,11 +58,11 @@ entries:
   samplechart:
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2018-06-08T13:44:17.999459118Z
+    created: 2018-06-11T13:42:39.262036772Z
     description: A Helm chart for Kubernetes
     digest: 87ddb087f2b0fbe5bbf3d589574180b52313529357a06e8b14910e4329ef0573
     name: samplechart
     urls:
     - https://pallav-reactiveworks.github.io/helm-repo/samplechart-0.1.0.tgz
     version: 0.1.0
-generated: 2018-06-08T13:44:17.997413291Z
+generated: 2018-06-11T13:42:39.260408527Z
