@@ -9,4 +9,4 @@ metadata:
     heritage: "{{ .Release.Service }}"
 type: Opaque
 data:
-  index.html: "Hello World...Welcome"
+  data: "Hello World...Welcome"
