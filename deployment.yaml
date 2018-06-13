@@ -7,6 +7,8 @@ spec:
   template:
     metadata:
       labels:
+        checksum/config: {{ include (print $.Template.BasePath "/configmap.yaml") . |  sha256sum | trunc 63 }}
+        checksum/config: {{ include (print $.Template.BasePath "/secret.yaml") . |  sha256sum | trunc 63 }}
         app: {{.Release.Name}}-dep
     spec:
       containers:
