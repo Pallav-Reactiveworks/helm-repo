@@ -9,6 +9,6 @@ metadata:
     heritage: "{{ .Release.Service }}"
 type: Opaque
 data:
-  name: "Pallava"
+  name: "PallavLadekar"
   dob: "30-08-2022"
  
