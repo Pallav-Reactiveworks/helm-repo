@@ -33,4 +33,4 @@ spec:
               name: {{ .Release.Name}}-secret
               key: password
       restartPolicy: Always
-# testing1234
+
