@@ -1,7 +1,7 @@
 kind: Deployment
 apiVersion: extensions/v1beta1
 metadata:
-  name: {{.Release.Name}}-mydeploy
+  name: {{.Release.Name}}-deployment
 spec:
   replicas: {{ .Values.replicacount}}
   template:
@@ -35,4 +35,3 @@ spec:
       restartPolicy: Always
      
  
-#testing
