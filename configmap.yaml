@@ -9,6 +9,6 @@ metadata:
     heritage: "{{ .Release.Service }}"
 type: Opaque
 data:
-  name: "Pal-pal"
-  dob: "30-08-2025"
+  name: "reactiveworks"
+  dob: "30-08-2022"
  
