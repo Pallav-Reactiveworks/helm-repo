@@ -7,7 +7,7 @@ spec:
   template:
     metadata:
       labels:
-        app: {{.Release.Name}}-deploy
+        app: {{.Release.Name}}-dep
     spec:
       containers:
       - image: "{{ .Values.repository}}:{{ .Values.tag}}"
